@@ -1,0 +1,10 @@
+debug: true
+chapgt:
+  service:
+    url: 'https://api.openai.com/v1/completions'
+    apiKey: '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'
+    model: 'text-davinci-003'
+    maxToken: 300
+    temperature: 1.0
+    topP: 1.0
+
